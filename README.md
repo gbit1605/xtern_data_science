@@ -2,7 +2,7 @@
 
 **Task description**
 
-Utilize an open-source map API such as Google Map API, OpenStreetMap, AWS Map API to collect useful data on local food trucks. Clean and organize your data then present it as a table or data frame. Such table or data frame of local food trucks should contain basic information such as name, address, rating, website, open hour, and cuisine type. See Example_Data.csv for an example list.
+Utilize an open-source map API such as Google Map API, OpenStreetMap, AWS Map API to collect useful data on local food trucks. Clean and organize your data then present it as a table or data frame. Such table or data frame of local food trucks should contain basic information such as name, address, rating, website, open hour, and cuisine type. 
 
 Review the data and draw any conclusions you can find from the data set you gathered. Present a two-day weekend foodie plan with time, location name, address, cuisine, travel time, travel distance, transportation type and visualization of the travel route. The travel route is best visualized by building on your own. There are tons of Geographic information system packages in both python and R! See Example_Plan.csv for an example plan.
 
